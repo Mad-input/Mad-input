@@ -1,16 +1,14 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+Hola, soy **Miguel** — un desarrollador de software enfocado en construir aplicaciones web y APIs fiables y mantenibles.
+
+- 👩‍💻 Stack principal: JavaScript / TypeScript • Node.js • React • PostgreSQL
+- ⚙️ Intereses: sistemas distribuidos, experiencia del desarrollador, pruebas y automatización
+- 🌱 Aprendiendo: Rust, GraphQL y patrones de backend escalables
+- 💬 Pregúntame sobre: desarrollo web, código limpio, CI/CD
+- 📫 Contacto: macc07112005c80@gmail.com
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2020</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Mi Stack</h2>
 
 ###
 <div align="center">

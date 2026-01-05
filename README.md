@@ -2,16 +2,11 @@
 
 ###
 
-<p align="left">My name is Miguel</p>
-https://miguel-contreras.vercel.app/es
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Angular Js</p>
+<p align="left">✨ Creating bugs since 2020</p>
 
 ###
 
